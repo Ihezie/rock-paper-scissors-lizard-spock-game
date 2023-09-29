@@ -2,7 +2,7 @@ import GameIcon from "./GameIcon";
 import iconData from "../data";
 import { useState, useEffect, useRef } from "react";
 import { useGameData } from "../AppProvider";
-import Waves from "./waves";
+import Waves from "./Waves";
 
 const Results = () => {
   const {
